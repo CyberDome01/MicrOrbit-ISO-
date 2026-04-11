@@ -1,5 +1,5 @@
 # MicrOrbit • ISO
-### Government of Alberta — AI-First Cybersecurity Operations Platform
+###  — AI-First Cybersecurity Operations Platform
 
 Built for the GoA Technology & Innovation Cybersecurity Division, Log Management Team.
 
